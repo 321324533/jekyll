@@ -11,19 +11,19 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: 首页
       slug: /
-    - name: Work
-    - name: Blog
+    - name: 公司简介
+    - name: 联系我们
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: xxxxxx@qq.com
       link: mailto:yourmail@domain.com
     - name: WeChat
-      value: YourWeChatUsername
+      value: xxxxxxxx
       link: "#"
     - name: phone
       value: 19955378844
