@@ -1,12 +1,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: 和君工程咨询有限公司
+title: Bay Jekyll Theme
 description: >- # this means to ignore newlines until "baseurl:"
-  和君工程咨询有限公司简介.
+  Bay is a minimal Jekyll Theme.
 baseurl: "/bay" # the subpath of the site
 url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/logo.png
 google_analytics: "UA-121636368-3"
 
 header:
@@ -25,20 +25,22 @@ footer:
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
+    - name: phone
+      value: 19955378844
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+#    - name: Twitter
+#      link: http://twitter.com/YourTwitterUsername
+#      username: "@YourTwitterUsername"
+#    - name: Facebook
+#      link: http://facebook.com/YourFacebookUsername
+#    - name: LinkedIn
+#      link: http://linkedin.com/in/YourLinkedInUsername
+#    - name: GitHub
+#      link: http://github.com/YourGitHubUsername
+#    - name: Dribbble
+#      link: https://dribbble.com/YourDribbbleUsername
+#    - name: RSS
+#      link: /feed.xml
 
 # Build settings
 markdown: kramdown
